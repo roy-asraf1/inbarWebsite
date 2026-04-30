@@ -529,7 +529,7 @@ h4 { font-size: 1.25rem; font-weight: 700; }
     width: 64px;
     height: 64px;
     margin: 0 auto 20px;
-    background: var(--green);
+    background: #C84F1E;
     color: var(--white);
     border-radius: 50%;
     display: flex;
@@ -537,7 +537,7 @@ h4 { font-size: 1.25rem; font-weight: 700; }
     justify-content: center;
     font-weight: 900;
     font-size: 1.5rem;
-    box-shadow: 0 8px 24px rgba(51, 149, 111, 0.4);
+    box-shadow: 0 8px 24px rgba(200, 79, 30, 0.4);
 }
 
 .process-step h4 { margin-bottom: 12px; }
