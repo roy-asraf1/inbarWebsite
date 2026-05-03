@@ -866,5 +866,4 @@ h4 { font-size: 1.25rem; font-weight: 700; }
     .gallery-item-large { grid-column: span 1; }
     .float-whatsapp { width: 54px; height: 54px; }
     .float-whatsapp svg { width: 28px; height: 28px; }
-    .hero h1 br { display: none; }
 }
