@@ -475,7 +475,7 @@ h4 { font-size: 1.25rem; font-weight: 700; }
     position: absolute;
     top: 20px;
     left: 20px;
-    background: var(--green);
+    background: #fc712c;
     color: var(--white);
     padding: 6px 16px;
     border-radius: 999px;
