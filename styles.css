@@ -331,7 +331,7 @@ h4 { font-size: 1.25rem; font-weight: 700; }
 .about-text .lead {
     font-size: 1.3rem;
     color: var(--dark);
-    font-weight: 500;
+    font-weight: 400;
     margin: 24px 0;
     line-height: 1.5;
 }
@@ -399,6 +399,7 @@ h4 { font-size: 1.25rem; font-weight: 700; }
 .why { padding: 120px 0; background: var(--cream); }
 
 .why-header { text-align: center; max-width: 760px; margin: 0 auto 64px; }
+.why-headline { font-size: 1.6rem; line-height: 1.4; }
 .why-intro { font-size: 1.1rem; color: var(--gray); margin-top: 20px; }
 
 .why-grid {
@@ -664,6 +665,8 @@ h4 { font-size: 1.25rem; font-weight: 700; }
 .personas { padding: 120px 0; background: var(--white); }
 
 .personas-header { text-align: center; max-width: 700px; margin: 0 auto 56px; }
+.personas-headline { font-size: 1.4rem; line-height: 1.5; }
+.personas-headline .keep-size { font-size: 2rem; }
 
 .personas-grid {
     display: grid;
